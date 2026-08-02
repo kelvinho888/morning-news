@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Kelvin Morning News</title>
+<link>https://kelvinho888.github.io/morning-news/feed.xml</link>
+<atom:link href="https://kelvinho888.github.io/morning-news/feed.xml" rel="self" type="application/rss+xml"/>
+<language>en</language>
+<description>A personal daily news bulletin: the Singapore, Asia, business and markets stories that matter, edited from CNA, BBC and Bloomberg.</description>
+<itunes:author>Morning News</itunes:author>
+<itunes:summary>A personal daily news bulletin: the Singapore, Asia, business and markets stories that matter, edited from CNA, BBC and Bloomberg.</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+<itunes:category text="News"/>
+<itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
+<item>
+<title>Morning News - 2026-08-03</title>
+<description>Selected stories for today:
+- Aidha Launches Free Financial Literacy Programme for Migrant Domestic Workers
+- National Day Parade 2026 Features Indoor Drone Debut and Record Special Effects
+- Singapore Beverage Deposit Return Scheme Rolls Out Across Major Supermarkets
+- Vietnam Macro Growth Surge Meets Inflation Risks and Rising US Trade Tensions
+- Rio Tinto CEO on China Iron Ore Demand and Strategic Focus on Energy Transition Metals
+- US July Jobs Report Preview and Federal Reserve Monetary Policy Outlook</description>
+<itunes:summary>Selected stories for today:
+- Aidha Launches Free Financial Literacy Programme for Migrant Domestic Workers
+- National Day Parade 2026 Features Indoor Drone Debut and Record Special Effects
+- Singapore Beverage Deposit Return Scheme Rolls Out Across Major Supermarkets
+- Vietnam Macro Growth Surge Meets Inflation Risks and Rising US Trade Tensions
+- Rio Tinto CEO on China Iron Ore Demand and Strategic Focus on Energy Transition Metals
+- US July Jobs Report Preview and Federal Reserve Monetary Policy Outlook</itunes:summary>
+<pubDate>Mon, 03 Aug 2026 01:50:00 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-08-03</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-08-03.mp3" length="16674940" type="audio/mpeg"/>
+<itunes:duration>00:17:22</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+</channel>
+</rss>
