@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Kelvin Morning News</title>
+<title>Morning News</title>
 <link>https://kelvinho888.github.io/morning-news/feed.xml</link>
 <atom:link href="https://kelvinho888.github.io/morning-news/feed.xml" rel="self" type="application/rss+xml"/>
 <language>en</language>
@@ -11,6 +11,34 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:category text="News"/>
 <itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
+<item>
+<title>Morning News - 2026-08-06</title>
+<description>Selected stories for today:
+- Singapore Public Service Layoffs: GovTech Restructuring Affects Staff Aged 40-49 Most
+- Myanmar&#x27;s Min Aung Hlaing Visits Thailand as ASEAN Peace Plan Faces Strain
+- Taiwan Launches Unscripted Han Kuang Military Exercises to Counter China Strategy
+- HSBC Announces $1 Billion Buyback as Hong Kong Wealth Management Expands
+- WFP Warns El Niño and Conflict Risks Could Push Millions More Into Hunger
+- Thousands of Moroccans Overwhelm Spanish Border Enclave of Ceuta
+- Ukraine Faces Devastating Russian Strikes Amid Critical Air Defense Missile Shortages
+- Chinese Open-Source AI Models Challenge US Tech Giants on Cost Efficiency
+- SpaceX Debut Earnings Hit by Massive $18 Billion AI Infrastructure Expenditure</description>
+<itunes:summary>Selected stories for today:
+- Singapore Public Service Layoffs: GovTech Restructuring Affects Staff Aged 40-49 Most
+- Myanmar&#x27;s Min Aung Hlaing Visits Thailand as ASEAN Peace Plan Faces Strain
+- Taiwan Launches Unscripted Han Kuang Military Exercises to Counter China Strategy
+- HSBC Announces $1 Billion Buyback as Hong Kong Wealth Management Expands
+- WFP Warns El Niño and Conflict Risks Could Push Millions More Into Hunger
+- Thousands of Moroccans Overwhelm Spanish Border Enclave of Ceuta
+- Ukraine Faces Devastating Russian Strikes Amid Critical Air Defense Missile Shortages
+- Chinese Open-Source AI Models Challenge US Tech Giants on Cost Efficiency
+- SpaceX Debut Earnings Hit by Massive $18 Billion AI Infrastructure Expenditure</itunes:summary>
+<pubDate>Thu, 06 Aug 2026 08:22:49 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-08-06</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-08-06.mp3" length="14639060" type="audio/mpeg"/>
+<itunes:duration>00:15:15</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
 <item>
 <title>Morning News - 2026-08-05</title>
 <description>Selected stories for today:
