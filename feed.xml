@@ -13,6 +13,32 @@
 <itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
 <itunes:image href="https://kelvinho888.github.io/morning-news/cover.jpg"/>
 <item>
+<title>Morning News - 2026-09-05</title>
+<description>Selected stories for today:
+- Northern Hemisphere flu vaccines in Singapore delayed by about 2 weeks to early October
+- SIAS warns against pyramid-type ‘Nanning scheme’ investment arrangements
+- Singapore to map coastal, marine habitat changes in third such study since 2011
+- Daily haze advisories to start after first unhealthy 24-hour PSI reading since October 2023
+- Singapore collected S$97.3 billion in tax revenue, up 9.4%
+- Public cleanliness satisfaction falls to 91%; toilets and neighbourhood spaces see biggest declines: SMU survey
+- Detailed report on pig‑kidney xenotransplant success
+- UBS CIO warns Fed policy risk to equity investors</description>
+<itunes:summary>Selected stories for today:
+- Northern Hemisphere flu vaccines in Singapore delayed by about 2 weeks to early October
+- SIAS warns against pyramid-type ‘Nanning scheme’ investment arrangements
+- Singapore to map coastal, marine habitat changes in third such study since 2011
+- Daily haze advisories to start after first unhealthy 24-hour PSI reading since October 2023
+- Singapore collected S$97.3 billion in tax revenue, up 9.4%
+- Public cleanliness satisfaction falls to 91%; toilets and neighbourhood spaces see biggest declines: SMU survey
+- Detailed report on pig‑kidney xenotransplant success
+- UBS CIO warns Fed policy risk to equity investors</itunes:summary>
+<pubDate>Mon, 07 Sep 2026 09:04:39 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-09-05</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-05.mp3" length="6442048" type="audio/mpeg"/>
+<itunes:duration>00:06:43</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning News - 2026-09-04</title>
 <description>Selected stories for today:
 - Business transformation struggles
