@@ -13,6 +13,46 @@
 <itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
 <itunes:image href="https://kelvinho888.github.io/morning-news/cover.jpg"/>
 <item>
+<title>Morning News - 2026-09-20</title>
+<description>Selected stories for today:
+- Singapore eyes Canada for energy and trade
+- When fires burn hundreds of kilometres away in Indonesia, the smoke they produce can eventually make its way to Singapore.
+- Police speed up takedown of scam sites
+- The air quality in Singapore hit new highs this week, with the PSI reaching 154 in the central region.
+- National Cancer Centre apologises after email addresses of over 460 recipients mistakenly exposed
+- New measures to counter youth radicalisation
+- Air quality back at unhealthy levels in central Singapore
+- Scammers are using AI to commit crimes at speed. How is Singapore police&#x27;s new Cyber Command keeping up?
+- North-South Corridor: Costs of two-year delay to be known only after completion, LTA says
+- Support for women returning to work should start before they even leave their jobs, SCWO study finds
+- Man and woman arrested for attempting to smuggle over 10kg of cannabis into Singapore
+- Iran‑China oil and sanctions talk
+- Trump hosts Xi for state visit
+- AfD scores strong showing in Saxony, pressure on Chancellor
+- General Mills earnings preview</description>
+<itunes:summary>Selected stories for today:
+- Singapore eyes Canada for energy and trade
+- When fires burn hundreds of kilometres away in Indonesia, the smoke they produce can eventually make its way to Singapore.
+- Police speed up takedown of scam sites
+- The air quality in Singapore hit new highs this week, with the PSI reaching 154 in the central region.
+- National Cancer Centre apologises after email addresses of over 460 recipients mistakenly exposed
+- New measures to counter youth radicalisation
+- Air quality back at unhealthy levels in central Singapore
+- Scammers are using AI to commit crimes at speed. How is Singapore police&#x27;s new Cyber Command keeping up?
+- North-South Corridor: Costs of two-year delay to be known only after completion, LTA says
+- Support for women returning to work should start before they even leave their jobs, SCWO study finds
+- Man and woman arrested for attempting to smuggle over 10kg of cannabis into Singapore
+- Iran‑China oil and sanctions talk
+- Trump hosts Xi for state visit
+- AfD scores strong showing in Saxony, pressure on Chancellor
+- General Mills earnings preview</itunes:summary>
+<pubDate>Sun, 20 Sep 2026 06:29:31 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-09-20</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-20.mp3" length="20035335" type="audio/mpeg"/>
+<itunes:duration>00:20:52</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning News - 2026-09-19</title>
 <description>Selected stories for today:
 - South Korea refuses to send troops to Iran amid US pressure
@@ -818,28 +858,6 @@
 <guid isPermaLink="false">morning-news-2026-08-06</guid>
 <enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-08-06.mp3" length="14639060" type="audio/mpeg"/>
 <itunes:duration>00:15:15</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Morning News - 2026-08-05</title>
-<description>Selected stories for today:
-- SQ321 Investigation: Weather Radar Underpainting Cited in Severe Turbulence Report
-- Singapore GovTech Restructuring: Staff Aged 40-49 Most Affected by Retrenchments
-- Malaysia Politics: DAP Chairman Anthony Loke Resigns Negeri Sembilan Post
-- Saudi Aramco Profits Surge 44% Despite Middle East Regional Conflict
-- EU Interior Ministers Hold Emergency Talks on Ceuta Migration Crisis
-- Ukraine Drone Attacks Target Russian Logistics and E-Commerce Infrastructure</description>
-<itunes:summary>Selected stories for today:
-- SQ321 Investigation: Weather Radar Underpainting Cited in Severe Turbulence Report
-- Singapore GovTech Restructuring: Staff Aged 40-49 Most Affected by Retrenchments
-- Malaysia Politics: DAP Chairman Anthony Loke Resigns Negeri Sembilan Post
-- Saudi Aramco Profits Surge 44% Despite Middle East Regional Conflict
-- EU Interior Ministers Hold Emergency Talks on Ceuta Migration Crisis
-- Ukraine Drone Attacks Target Russian Logistics and E-Commerce Infrastructure</itunes:summary>
-<pubDate>Wed, 05 Aug 2026 05:36:22 +0800</pubDate>
-<guid isPermaLink="false">morning-news-2026-08-05</guid>
-<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-08-05.mp3" length="14575532" type="audio/mpeg"/>
-<itunes:duration>00:15:11</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
