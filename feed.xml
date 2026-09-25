@@ -13,6 +13,36 @@
 <itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
 <itunes:image href="https://kelvinho888.github.io/morning-news/cover.jpg"/>
 <item>
+<title>Morning News - 2026-09-25</title>
+<description>Selected stories for today:
+- Escalation of fighting in Ethiopia’s Tigray region
+- Risk of LNG shortages in developing countries as Strait of Hormuz disruptions bite
+- Saudi east‑west pipeline tests resume after Houthi drone attacks
+- Ukrainian attacks hit Russian oil output
+- Situation in Kiev worsening
+- Iran threatens navigation in Hormuz, oil spikes
+- Missile strike damages Kyiv maternity hospital
+- OpenAI AI agent breached Australian health data portal
+- US and China discuss AI incident hotline
+- US business sentiment improves in China</description>
+<itunes:summary>Selected stories for today:
+- Escalation of fighting in Ethiopia’s Tigray region
+- Risk of LNG shortages in developing countries as Strait of Hormuz disruptions bite
+- Saudi east‑west pipeline tests resume after Houthi drone attacks
+- Ukrainian attacks hit Russian oil output
+- Situation in Kiev worsening
+- Iran threatens navigation in Hormuz, oil spikes
+- Missile strike damages Kyiv maternity hospital
+- OpenAI AI agent breached Australian health data portal
+- US and China discuss AI incident hotline
+- US business sentiment improves in China</itunes:summary>
+<pubDate>Fri, 25 Sep 2026 11:58:03 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-09-25</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-25.mp3" length="15318666" type="audio/mpeg"/>
+<itunes:duration>00:15:57</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning News - 2026-09-24</title>
 <description>Selected stories for today:
 - Internal security department says terrorism threat is high
@@ -834,34 +864,6 @@
 <guid isPermaLink="false">morning-news-2026-08-13</guid>
 <enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-08-13.mp3" length="29385913" type="audio/mpeg"/>
 <itunes:duration>00:30:37</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Morning News - 2026-08-12</title>
-<description>Selected stories for today:
-- Singapore raises 2026 GDP growth forecast to 4.5-5.5% on AI export surge
-- Singapore tech graduates face rising hiring standards as AI transforms coding
-- Yen weakens past 159 post-intervention as markets weigh BOJ posture and carry trade
-- Chip stocks slide and South Korea equity momentum slows amid memory supply debate
-- China auto sales drop for 10th month as home demand stays weak while exports jump
-- Tech hyperscalers AI capex ROI and US CPI trajectory hold key for Fed policy
-- Over 220 dead as magnitude 7.4 earthquake devastates western Colombia
-- Russia targets Ukrainian cities with missiles including North Korean variants
-- Somalia faces acute child malnutrition crisis following severe aid cuts</description>
-<itunes:summary>Selected stories for today:
-- Singapore raises 2026 GDP growth forecast to 4.5-5.5% on AI export surge
-- Singapore tech graduates face rising hiring standards as AI transforms coding
-- Yen weakens past 159 post-intervention as markets weigh BOJ posture and carry trade
-- Chip stocks slide and South Korea equity momentum slows amid memory supply debate
-- China auto sales drop for 10th month as home demand stays weak while exports jump
-- Tech hyperscalers AI capex ROI and US CPI trajectory hold key for Fed policy
-- Over 220 dead as magnitude 7.4 earthquake devastates western Colombia
-- Russia targets Ukrainian cities with missiles including North Korean variants
-- Somalia faces acute child malnutrition crisis following severe aid cuts</itunes:summary>
-<pubDate>Wed, 12 Aug 2026 09:30:59 +0800</pubDate>
-<guid isPermaLink="false">morning-news-2026-08-12</guid>
-<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-08-12.mp3" length="28825429" type="audio/mpeg"/>
-<itunes:duration>00:30:02</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
