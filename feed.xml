@@ -13,6 +13,42 @@
 <itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
 <itunes:image href="https://kelvinho888.github.io/morning-news/cover.jpg"/>
 <item>
+<title>Morning News - 2026-10-01</title>
+<description>Selected stories for today:
+- Price controls may look attractive, but costs often only emerge later: PM Wong
+- Nearly 100,000 Bee Cheng Hiang customers&#x27; email addresses exposed in first AI-related data breach in Singapore
+- Union calls for public transport workers to get better wages, bonuses following fare hikes
+- Lower electricity and gas household tariffs from October to December
+- Fresh twist on Anthony Loke’s resignation: Little wiggle room for him, breathing space for Anwar
+- UN refugee agency concerned by Malaysia returns to Myanmar
+- Kenya $16bn oil refinery project sparks protests
+- OpenAI to launch agentic AI assistant
+- Ukraine endures massive Russian overnight attacks
+- China rolls out limited stimulus measures
+- Asia‑Pacific equities rise on falling oil prices
+- China September PMI shows marginal expansion
+- Dubai‑Tel Aviv flight diverted after cockpit stabbing</description>
+<itunes:summary>Selected stories for today:
+- Price controls may look attractive, but costs often only emerge later: PM Wong
+- Nearly 100,000 Bee Cheng Hiang customers&#x27; email addresses exposed in first AI-related data breach in Singapore
+- Union calls for public transport workers to get better wages, bonuses following fare hikes
+- Lower electricity and gas household tariffs from October to December
+- Fresh twist on Anthony Loke’s resignation: Little wiggle room for him, breathing space for Anwar
+- UN refugee agency concerned by Malaysia returns to Myanmar
+- Kenya $16bn oil refinery project sparks protests
+- OpenAI to launch agentic AI assistant
+- Ukraine endures massive Russian overnight attacks
+- China rolls out limited stimulus measures
+- Asia‑Pacific equities rise on falling oil prices
+- China September PMI shows marginal expansion
+- Dubai‑Tel Aviv flight diverted after cockpit stabbing</itunes:summary>
+<pubDate>Thu, 01 Oct 2026 08:57:49 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-10-01</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-10-01.mp3" length="15934319" type="audio/mpeg"/>
+<itunes:duration>00:16:36</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning News - 2026-09-30</title>
 <description>Selected stories for today:
 - Public transport fares to rise by 12 to 13 cents per ride for adult card users from Dec 26
@@ -866,22 +902,6 @@
 <guid isPermaLink="false">morning-news-2026-08-18</guid>
 <enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-08-18.mp3" length="36938431" type="audio/mpeg"/>
 <itunes:duration>00:38:29</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Morning News - 2026-08-15</title>
-<description>Selected stories for today:
-- Philippines&#x27; Marcos confident on economic cooperation with China despite territorial disputes
-- Japan summons Russian ambassador after Putin visits disputed islands for first time
-- N Chandrasekaran to step down as Tata Sons chairman in February 2027</description>
-<itunes:summary>Selected stories for today:
-- Philippines&#x27; Marcos confident on economic cooperation with China despite territorial disputes
-- Japan summons Russian ambassador after Putin visits disputed islands for first time
-- N Chandrasekaran to step down as Tata Sons chairman in February 2027</itunes:summary>
-<pubDate>Mon, 17 Aug 2026 05:19:00 +0800</pubDate>
-<guid isPermaLink="false">morning-news-2026-08-15</guid>
-<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-08-15.mp3" length="14147541" type="audio/mpeg"/>
-<itunes:duration>00:14:44</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
