@@ -13,6 +13,40 @@
 <itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
 <itunes:image href="https://kelvinho888.github.io/morning-news/cover.jpg"/>
 <item>
+<title>Morning News - 2026-10-03</title>
+<description>Selected stories for today:
+- Johor Bahru-Singapore RTS Link passenger service delayed to February 2027
+- More than 16,000 seniors to benefit from new active ageing framework
+- HPV9 vaccine to be added to national immunisation schedules from January 2027
+- Existing safeguards by AI companies insufficient as models grow more capable: Josephine Teo
+- Indonesia’s Prabowo names new foreign, industry ministers in major Cabinet reshuffle
+- Marking China&#x27;s national day, Xi calls for progress towards reunification with Taiwan
+- Bank of Japan may delay October rate hike, eye December
+- Japan launches $15 billion 400‑MW AI data centre project
+- LNG prices double ahead of European winter
+- Consumer stocks slump amid weak Chinese macro
+- Tokyo CPI jumps, pressure on BOJ
+- US considers banning diesel exports</description>
+<itunes:summary>Selected stories for today:
+- Johor Bahru-Singapore RTS Link passenger service delayed to February 2027
+- More than 16,000 seniors to benefit from new active ageing framework
+- HPV9 vaccine to be added to national immunisation schedules from January 2027
+- Existing safeguards by AI companies insufficient as models grow more capable: Josephine Teo
+- Indonesia’s Prabowo names new foreign, industry ministers in major Cabinet reshuffle
+- Marking China&#x27;s national day, Xi calls for progress towards reunification with Taiwan
+- Bank of Japan may delay October rate hike, eye December
+- Japan launches $15 billion 400‑MW AI data centre project
+- LNG prices double ahead of European winter
+- Consumer stocks slump amid weak Chinese macro
+- Tokyo CPI jumps, pressure on BOJ
+- US considers banning diesel exports</itunes:summary>
+<pubDate>Sat, 03 Oct 2026 18:05:04 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-10-03</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-10-03.mp3" length="17133444" type="audio/mpeg"/>
+<itunes:duration>00:17:51</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning News - 2026-10-02</title>
 <description>Selected stories for today:
 - Beverage container return scheme fully rolled out
@@ -874,34 +908,6 @@
 <guid isPermaLink="false">morning-news-2026-08-21</guid>
 <enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-08-21.mp3" length="11859217" type="audio/mpeg"/>
 <itunes:duration>00:12:21</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Morning News - 2026-08-19</title>
-<description>Selected stories for today:
-- Singapore Property Outlook and En Bloc Threshold Reforms
-- Asian Markets, China Robotics IPO and Malaysia Tax Reform
-- Corporate Reputation and AI Search Risks in Asia-Pacific
-- BHP Profit Jumps on Strong Copper Demand and M&amp;A Outlook
-- Australian Market Rotation into Healthcare and Takeovers
-- Global Market Pressures: Oil Spikes, Yields Rise, and Asian Macro Diverges
-- Ukraine Escalates Drone Strikes as Russian Infrastructure Targeted
-- Syrian Court Sentences Assad&#x27;s Cousin to Death in Damascus
-- Zambia&#x27;s President Hakainde Hichilema Re-elected Amid Opposition Claims</description>
-<itunes:summary>Selected stories for today:
-- Singapore Property Outlook and En Bloc Threshold Reforms
-- Asian Markets, China Robotics IPO and Malaysia Tax Reform
-- Corporate Reputation and AI Search Risks in Asia-Pacific
-- BHP Profit Jumps on Strong Copper Demand and M&amp;A Outlook
-- Australian Market Rotation into Healthcare and Takeovers
-- Global Market Pressures: Oil Spikes, Yields Rise, and Asian Macro Diverges
-- Ukraine Escalates Drone Strikes as Russian Infrastructure Targeted
-- Syrian Court Sentences Assad&#x27;s Cousin to Death in Damascus
-- Zambia&#x27;s President Hakainde Hichilema Re-elected Amid Opposition Claims</itunes:summary>
-<pubDate>Wed, 19 Aug 2026 06:15:35 +0800</pubDate>
-<guid isPermaLink="false">morning-news-2026-08-19</guid>
-<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-08-19.mp3" length="25853327" type="audio/mpeg"/>
-<itunes:duration>00:26:56</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
