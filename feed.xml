@@ -13,6 +13,28 @@
 <itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
 <itunes:image href="https://kelvinho888.github.io/morning-news/cover.jpg"/>
 <item>
+<title>Morning News - 2026-10-06</title>
+<description>Selected stories for today:
+- Indonesia finance minister outlines fiscal strategy
+- BOJ expected to raise rates soon
+- US B‑1 bombers withdrawn from RAF Fairford amid Iranian threat concerns
+- Developments on the Fly Dubai hijack attempt and security failures
+- Oil exports from the Middle East rise despite war
+- Spain calls snap parliamentary election for November 29</description>
+<itunes:summary>Selected stories for today:
+- Indonesia finance minister outlines fiscal strategy
+- BOJ expected to raise rates soon
+- US B‑1 bombers withdrawn from RAF Fairford amid Iranian threat concerns
+- Developments on the Fly Dubai hijack attempt and security failures
+- Oil exports from the Middle East rise despite war
+- Spain calls snap parliamentary election for November 29</itunes:summary>
+<pubDate>Tue, 06 Oct 2026 09:05:09 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-10-06</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-10-06.mp3" length="15631717" type="audio/mpeg"/>
+<itunes:duration>00:16:17</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning News - 2026-10-05</title>
 <description>Selected stories for today:
 - Task force proposes stronger job and training support for people with disabilities to ease &#x27;post-18 cliff&#x27;
@@ -894,26 +916,6 @@
 <guid isPermaLink="false">morning-news-2026-08-24</guid>
 <enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-08-24.mp3" length="23441702" type="audio/mpeg"/>
 <itunes:duration>00:24:25</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Morning News - 2026-08-22</title>
-<description>Selected stories for today:
-- Imran Khan Returned to Prison After Hospital Visit
-- Japan CPI Accelerates Putting Pressure on BOJ
-- US Treasury Expands Debt Buybacks Amid Yield Pressures
-- Israeli Settlers Reopen Dismantled West Bank Outpost
-- El Nino Warning of Record Climate Event</description>
-<itunes:summary>Selected stories for today:
-- Imran Khan Returned to Prison After Hospital Visit
-- Japan CPI Accelerates Putting Pressure on BOJ
-- US Treasury Expands Debt Buybacks Amid Yield Pressures
-- Israeli Settlers Reopen Dismantled West Bank Outpost
-- El Nino Warning of Record Climate Event</itunes:summary>
-<pubDate>Sun, 23 Aug 2026 12:40:47 +0800</pubDate>
-<guid isPermaLink="false">morning-news-2026-08-22</guid>
-<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-08-22.mp3" length="16738050" type="audio/mpeg"/>
-<itunes:duration>00:17:26</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
