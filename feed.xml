@@ -13,6 +13,46 @@
 <itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
 <itunes:image href="https://kelvinho888.github.io/morning-news/cover.jpg"/>
 <item>
+<title>Morning News - 2026-10-10</title>
+<description>Selected stories for today:
+- ‘No boom is forever’: Singapore must seize AI opportunity before correction, says PM Wong
+- Around 500 new jobs to be created as ST Engineering opens new aircraft maintenance facility
+- Quiet car showrooms as buyers adopt wait-and-see stance over proposed COE merger
+- Pushing back RTS-Link launch to mid-Feb provides buffer for smooth operations: Anthony Loke
+- Malaysia to raise minimum wages, expand tax relief in spending boost for 2027 budget
+- Ukrainians flee Kyiv as Russian attacks intensify
+- Ukrainian mother leaves Kyiv for Vienna
+- Houthi attack on Riyadh airport kills three, prompts flight suspensions
+- yen volatility and intervention
+- AI capex concerns after OpenAI growth slowdown
+- Treasury yields pressure
+- European banks offer attractive valuations
+- second supplementary budget being considered
+- French debt sell‑off may trigger repatriation to Japan
+- Malaysian schools shut due to toxic smog</description>
+<itunes:summary>Selected stories for today:
+- ‘No boom is forever’: Singapore must seize AI opportunity before correction, says PM Wong
+- Around 500 new jobs to be created as ST Engineering opens new aircraft maintenance facility
+- Quiet car showrooms as buyers adopt wait-and-see stance over proposed COE merger
+- Pushing back RTS-Link launch to mid-Feb provides buffer for smooth operations: Anthony Loke
+- Malaysia to raise minimum wages, expand tax relief in spending boost for 2027 budget
+- Ukrainians flee Kyiv as Russian attacks intensify
+- Ukrainian mother leaves Kyiv for Vienna
+- Houthi attack on Riyadh airport kills three, prompts flight suspensions
+- yen volatility and intervention
+- AI capex concerns after OpenAI growth slowdown
+- Treasury yields pressure
+- European banks offer attractive valuations
+- second supplementary budget being considered
+- French debt sell‑off may trigger repatriation to Japan
+- Malaysian schools shut due to toxic smog</itunes:summary>
+<pubDate>Mon, 12 Oct 2026 10:46:54 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-10-10</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-10-10.mp3" length="15833591" type="audio/mpeg"/>
+<itunes:duration>00:16:30</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning News - 2026-10-09</title>
 <description>Selected stories for today:
 - PM Wong says US tariffs on Singapore should be zero
@@ -912,30 +952,6 @@
 <guid isPermaLink="false">morning-news-2026-08-29</guid>
 <enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-08-29.mp3" length="15187844" type="audio/mpeg"/>
 <itunes:duration>00:15:49</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Morning News - 2026-08-27</title>
-<description>Selected stories for today:
-- Singapore Reviews AI Intellectual Property Framework
-- Singapore and Kazakhstan Deepen Trade and Logistics Ties
-- Devastating Flash Floods Strike China-Nepal Border
-- Deadly Maternity Ward Fire in Islamabad Hospital
-- Oil Drops on Hormuz Diplomacy Easing US Inflation Risks
-- China Warns of Youth Prescription Drug Misuse Amid Exam Stress
-- Russian Drones Target Ukrainian Frontline Fuel Stations</description>
-<itunes:summary>Selected stories for today:
-- Singapore Reviews AI Intellectual Property Framework
-- Singapore and Kazakhstan Deepen Trade and Logistics Ties
-- Devastating Flash Floods Strike China-Nepal Border
-- Deadly Maternity Ward Fire in Islamabad Hospital
-- Oil Drops on Hormuz Diplomacy Easing US Inflation Risks
-- China Warns of Youth Prescription Drug Misuse Amid Exam Stress
-- Russian Drones Target Ukrainian Frontline Fuel Stations</itunes:summary>
-<pubDate>Thu, 27 Aug 2026 18:17:53 +0800</pubDate>
-<guid isPermaLink="false">morning-news-2026-08-27</guid>
-<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-08-27.mp3" length="27195394" type="audio/mpeg"/>
-<itunes:duration>00:28:20</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
