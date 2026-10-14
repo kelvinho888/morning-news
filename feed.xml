@@ -13,6 +13,42 @@
 <itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
 <itunes:image href="https://kelvinho888.github.io/morning-news/cover.jpg"/>
 <item>
+<title>Morning News - 2026-10-14</title>
+<description>Selected stories for today:
+- Singapore government worried AI may break &#x27;bottom rung&#x27; of career ladder for young workers: PM Wong
+- Services restored after hours-long disruption at public healthcare clusters; no indication of cyberattack: Health tech agency
+- Air quality forecast to remain in unhealthy range on Oct 14: NEA
+- Singapore asks major tech firms for full transparency, quicker information-sharing amid AI risks: Shanmugam
+- Preschool teachers to get at least 2 hours a week away from teaching duties to plan lessons, engage parents
+- Singapore startup opens plant to recover lithium from EV batteries, raises US$7.6 million
+- BBC reports on Taliban&#x27;s underground cave networks
+- Former Ukrainian commander says Russian losses halt advance
+- IMF and World Bank meet in Bangkok to discuss global growth
+- Riyadh airport closed after Houthi attacks
+- Market coping with high yields and oil prices
+- State Street revises 10‑year yield outlook amid war and AI
+- Potential Brent drop to $80‑85 could ease Fed pressure</description>
+<itunes:summary>Selected stories for today:
+- Singapore government worried AI may break &#x27;bottom rung&#x27; of career ladder for young workers: PM Wong
+- Services restored after hours-long disruption at public healthcare clusters; no indication of cyberattack: Health tech agency
+- Air quality forecast to remain in unhealthy range on Oct 14: NEA
+- Singapore asks major tech firms for full transparency, quicker information-sharing amid AI risks: Shanmugam
+- Preschool teachers to get at least 2 hours a week away from teaching duties to plan lessons, engage parents
+- Singapore startup opens plant to recover lithium from EV batteries, raises US$7.6 million
+- BBC reports on Taliban&#x27;s underground cave networks
+- Former Ukrainian commander says Russian losses halt advance
+- IMF and World Bank meet in Bangkok to discuss global growth
+- Riyadh airport closed after Houthi attacks
+- Market coping with high yields and oil prices
+- State Street revises 10‑year yield outlook amid war and AI
+- Potential Brent drop to $80‑85 could ease Fed pressure</itunes:summary>
+<pubDate>Wed, 14 Oct 2026 09:11:20 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-10-14</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-10-14.mp3" length="13759678" type="audio/mpeg"/>
+<itunes:duration>00:14:20</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning News - 2026-10-13</title>
 <description>Selected stories for today:
 - PM Wong calls for global AI watchdog and deeper ASEAN integration
@@ -928,40 +964,6 @@
 <guid isPermaLink="false">morning-news-2026-09-02</guid>
 <enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-02.mp3" length="8748347" type="audio/mpeg"/>
 <itunes:duration>00:09:07</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Morning News - 2026-09-01</title>
-<description>Selected stories for today:
-- Singapore to legislate stronger safeguards, possible daily time limit for teens on social media
-- Borrowing from a licensed moneylender? New cooling-off period starts Sep 15
-- ERP to resume in Orchard area for first time since 2020
-- ‘Hazardous’ levels of air quality in parts of Indonesia’s Borneo
-- Japan seeks record US$55.6 billion defence budget, with AI focus
-- ComfortDelGro joint venture wins S$3.4 billion contract to operate and maintain Copenhagen Metro
-- Tech sector receives $220 million boost
-- Singapore&#x27;s $28 billion plan boosts R&amp;D and 3D‑printed boat propellers
-- NRF to allocate $300 million to deep‑tech start‑ups
-- R&amp;D employment surges
-- Dark‑web data prices triple
-- Chinese state banks post stronger H1 profits</description>
-<itunes:summary>Selected stories for today:
-- Singapore to legislate stronger safeguards, possible daily time limit for teens on social media
-- Borrowing from a licensed moneylender? New cooling-off period starts Sep 15
-- ERP to resume in Orchard area for first time since 2020
-- ‘Hazardous’ levels of air quality in parts of Indonesia’s Borneo
-- Japan seeks record US$55.6 billion defence budget, with AI focus
-- ComfortDelGro joint venture wins S$3.4 billion contract to operate and maintain Copenhagen Metro
-- Tech sector receives $220 million boost
-- Singapore&#x27;s $28 billion plan boosts R&amp;D and 3D‑printed boat propellers
-- NRF to allocate $300 million to deep‑tech start‑ups
-- R&amp;D employment surges
-- Dark‑web data prices triple
-- Chinese state banks post stronger H1 profits</itunes:summary>
-<pubDate>Tue, 01 Sep 2026 06:25:22 +0800</pubDate>
-<guid isPermaLink="false">morning-news-2026-09-01</guid>
-<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-01.mp3" length="7343168" type="audio/mpeg"/>
-<itunes:duration>00:07:39</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
