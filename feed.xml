@@ -13,6 +13,46 @@
 <itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
 <itunes:image href="https://kelvinho888.github.io/morning-news/cover.jpg"/>
 <item>
+<title>Morning News - 2026-10-23</title>
+<description>Selected stories for today:
+- GovTech lets go of 38 staff members in second round of layoffs
+- How Singapore is preparing to keep its power grid reliable as demand grows
+- Singapore organisations urged to patch critical PHP flaws immediately amid cyberattack threat
+- Haze hits vegetable imports into Singapore, shrinking produce and pushing up prices
+- Singapore to streamline community mental health services under new HealthierMind SG network
+- Prabowo berates countries that &#x27;insult&#x27; Indonesia over wildfires
+- Intense Russian bombardment hits Kyiv and Odessa
+- Israeli prime minister may trigger conflict with Iran
+- Houthis attack Saudi airport in Dammam
+- Intel pushes ahead with U.S. chip reshoring
+- Israeli Arabs want from this election
+- Barclays Asia Forum highlights shifting capital flows
+- Upcoming closed‑door meeting of China’s top Communist Party ranks
+- UK launches multi‑drug Alzheimer&#x27;s trial
+- Ken Griffin warns of an AI bubble</description>
+<itunes:summary>Selected stories for today:
+- GovTech lets go of 38 staff members in second round of layoffs
+- How Singapore is preparing to keep its power grid reliable as demand grows
+- Singapore organisations urged to patch critical PHP flaws immediately amid cyberattack threat
+- Haze hits vegetable imports into Singapore, shrinking produce and pushing up prices
+- Singapore to streamline community mental health services under new HealthierMind SG network
+- Prabowo berates countries that &#x27;insult&#x27; Indonesia over wildfires
+- Intense Russian bombardment hits Kyiv and Odessa
+- Israeli prime minister may trigger conflict with Iran
+- Houthis attack Saudi airport in Dammam
+- Intel pushes ahead with U.S. chip reshoring
+- Israeli Arabs want from this election
+- Barclays Asia Forum highlights shifting capital flows
+- Upcoming closed‑door meeting of China’s top Communist Party ranks
+- UK launches multi‑drug Alzheimer&#x27;s trial
+- Ken Griffin warns of an AI bubble</itunes:summary>
+<pubDate>Fri, 23 Oct 2026 08:34:58 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-10-23</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-10-23.mp3" length="17138042" type="audio/mpeg"/>
+<itunes:duration>00:17:51</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning News - 2026-10-22</title>
 <description>Selected stories for today:
 - Singapore and the UAE to launch economic partnership negotiations to further trade, investment links
@@ -984,42 +1024,6 @@
 <guid isPermaLink="false">morning-news-2026-09-11</guid>
 <enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-11.mp3" length="7871887" type="audio/mpeg"/>
 <itunes:duration>00:08:12</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Morning News - 2026-09-10</title>
-<description>Selected stories for today:
-- Food resilience balance
-- Food security tied to National Defence Strategy
-- Child abuse case prompts screening review
-- Workers&#x27; Party proposes support for local farms
-- Preschool closures considered over Hays pollution
-- US Secretary of State Marco Rubio visits Colombia
-- Yen strengthens as Treasury Secretary Besant intervenes
-- Rising bond yields worldwide
-- Portfolio shift away from 60‑40 to energy and metals
-- UK defence of settlement sanctions
-- BOJ may deliver back‑to‑back rate hikes
-- AI existential risk warning
-- AI boom fuels capital intensity and bond yields</description>
-<itunes:summary>Selected stories for today:
-- Food resilience balance
-- Food security tied to National Defence Strategy
-- Child abuse case prompts screening review
-- Workers&#x27; Party proposes support for local farms
-- Preschool closures considered over Hays pollution
-- US Secretary of State Marco Rubio visits Colombia
-- Yen strengthens as Treasury Secretary Besant intervenes
-- Rising bond yields worldwide
-- Portfolio shift away from 60‑40 to energy and metals
-- UK defence of settlement sanctions
-- BOJ may deliver back‑to‑back rate hikes
-- AI existential risk warning
-- AI boom fuels capital intensity and bond yields</itunes:summary>
-<pubDate>Thu, 10 Sep 2026 06:27:51 +0800</pubDate>
-<guid isPermaLink="false">morning-news-2026-09-10</guid>
-<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-10.mp3" length="18592122" type="audio/mpeg"/>
-<itunes:duration>00:19:22</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
