@@ -13,6 +13,34 @@
 <itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
 <itunes:image href="https://kelvinho888.github.io/morning-news/cover.jpg"/>
 <item>
+<title>Morning News - 2026-10-29</title>
+<description>Selected stories for today:
+- Summoned to meeting with Singapore leaders, top honchos of 10 firms pledge to cooperate with haze probes
+- SkillsFuture mid-career support to cover 140 more training programmes, including tech job placements
+- HDB cuts 1,200 planned homes, retains more greenery at Maju Forest and Gillman Barracks after public feedback
+- Singapore, Malaysia test emergency response to simulated fire on stranded RTS Link train
+- AI chips worth US$12.1 million seized at Malaysia airport, customs authority says
+- Hegseth proposes &#x27;ambitious&#x27; US-ASEAN defence framework at Philippine summit
+- Israel election results: Netanyahu bloc leads but lacks majority, coalition talks loom
+- Serbia&#x27;s student list wins landslide, forms new government
+- Alphabet capex below estimates</description>
+<itunes:summary>Selected stories for today:
+- Summoned to meeting with Singapore leaders, top honchos of 10 firms pledge to cooperate with haze probes
+- SkillsFuture mid-career support to cover 140 more training programmes, including tech job placements
+- HDB cuts 1,200 planned homes, retains more greenery at Maju Forest and Gillman Barracks after public feedback
+- Singapore, Malaysia test emergency response to simulated fire on stranded RTS Link train
+- AI chips worth US$12.1 million seized at Malaysia airport, customs authority says
+- Hegseth proposes &#x27;ambitious&#x27; US-ASEAN defence framework at Philippine summit
+- Israel election results: Netanyahu bloc leads but lacks majority, coalition talks loom
+- Serbia&#x27;s student list wins landslide, forms new government
+- Alphabet capex below estimates</itunes:summary>
+<pubDate>Thu, 29 Oct 2026 07:49:08 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-10-29</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-10-29.mp3" length="13239737" type="audio/mpeg"/>
+<itunes:duration>00:13:47</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning News - 2026-10-28</title>
 <description>Selected stories for today:
 - Singapore to host new ASEAN office to exchange jobs data, better track labour market shifts
@@ -1000,34 +1028,6 @@
 <guid isPermaLink="false">morning-news-2026-09-16</guid>
 <enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-16.mp3" length="13806907" type="audio/mpeg"/>
 <itunes:duration>00:14:23</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Morning News - 2026-09-13</title>
-<description>Selected stories for today:
-- PM Wong warns economic frustrations can deepen social, racial divisions in Singapore
-- North-South Corridor construction enters its &#x27;most challenging phase&#x27;: LTA
-- Police warn of rise in unauthorised cryptocurrency account access through compromised emails
-- MRT reliability hits record high in August
-- Is Singapore psychologically prepared for a terror attack?
-- MHA refutes claims that the death penalty was discussed during visit by Israel&#x27;s security ministry
-- Fed likely to hike rates this week
-- Investors expect BOJ to raise rates
-- Sweden heads to general election</description>
-<itunes:summary>Selected stories for today:
-- PM Wong warns economic frustrations can deepen social, racial divisions in Singapore
-- North-South Corridor construction enters its &#x27;most challenging phase&#x27;: LTA
-- Police warn of rise in unauthorised cryptocurrency account access through compromised emails
-- MRT reliability hits record high in August
-- Is Singapore psychologically prepared for a terror attack?
-- MHA refutes claims that the death penalty was discussed during visit by Israel&#x27;s security ministry
-- Fed likely to hike rates this week
-- Investors expect BOJ to raise rates
-- Sweden heads to general election</itunes:summary>
-<pubDate>Mon, 14 Sep 2026 07:58:52 +0800</pubDate>
-<guid isPermaLink="false">morning-news-2026-09-13</guid>
-<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-13.mp3" length="24632468" type="audio/mpeg"/>
-<itunes:duration>00:25:39</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
