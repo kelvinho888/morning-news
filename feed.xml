@@ -13,6 +13,48 @@
 <itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
 <itunes:image href="https://kelvinho888.github.io/morning-news/cover.jpg"/>
 <item>
+<title>Morning News - 2026-11-01</title>
+<description>Selected stories for today:
+- CNA Explains: Will new loan limits for private-hire cars mean less COE demand or higher ride-hailing prices?
+- Most firms now use AI in HR processes, with human sign-off required 85% of the time: Survey
+- Haze probe: Five Singapore-registered companies agree to engage assessors
+- LNG traded by Singapore-based firms usually does not physically pass through Singapore, says METI
+- Over 6,000 new homes to come for Toa Payoh West, with amenities clustered around Caldecott MRT station
+- Nvidia&#x27;s Huang says dealings with firm in US spy probe were &#x27;normal&#x27; as China denies allegations
+- RBNZ governor discusses inflation outlook and policy
+- October US jobs report preview
+- RBA expected to hike rates again this week
+- UK budget measures unlikely to change Bank of England thinking
+- Apple earnings and supply‑chain issues
+- Airbnb earnings expected to hit three‑year high
+- personalised melanoma vaccine trial results
+- Palantir faces competitive threats as AI rivals grow
+- Australian housing market sees steep 8% price drop
+- Australian labor market shows slack as unemployment rises</description>
+<itunes:summary>Selected stories for today:
+- CNA Explains: Will new loan limits for private-hire cars mean less COE demand or higher ride-hailing prices?
+- Most firms now use AI in HR processes, with human sign-off required 85% of the time: Survey
+- Haze probe: Five Singapore-registered companies agree to engage assessors
+- LNG traded by Singapore-based firms usually does not physically pass through Singapore, says METI
+- Over 6,000 new homes to come for Toa Payoh West, with amenities clustered around Caldecott MRT station
+- Nvidia&#x27;s Huang says dealings with firm in US spy probe were &#x27;normal&#x27; as China denies allegations
+- RBNZ governor discusses inflation outlook and policy
+- October US jobs report preview
+- RBA expected to hike rates again this week
+- UK budget measures unlikely to change Bank of England thinking
+- Apple earnings and supply‑chain issues
+- Airbnb earnings expected to hit three‑year high
+- personalised melanoma vaccine trial results
+- Palantir faces competitive threats as AI rivals grow
+- Australian housing market sees steep 8% price drop
+- Australian labor market shows slack as unemployment rises</itunes:summary>
+<pubDate>Sun, 01 Nov 2026 09:11:00 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-11-01</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-11-01.mp3" length="17411387" type="audio/mpeg"/>
+<itunes:duration>00:18:08</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning News - 2026-10-31</title>
 <description>Selected stories for today:
 - Singapore Retrenchments Hit Nearly Six-Year High in Q3
@@ -1000,32 +1042,6 @@
 <guid isPermaLink="false">morning-news-2026-09-19</guid>
 <enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-19.mp3" length="6426166" type="audio/mpeg"/>
 <itunes:duration>00:06:42</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Morning News - 2026-09-18</title>
-<description>Selected stories for today:
-- North‑South MRT corridor opening delayed by two years
-- Singapore&#x27;s key exports jump 46% in August
-- Disability support fees could fall up to 80%
-- Russia begins parliamentary election amid Kremlin control
-- Syrian court hands first sentences for 2025 mass killings
-- Yen intervention risk if yen hits $160
-- Fed hikes policy rate by 25 basis points
-- Japanese 10‑year bond yield at 2.97% amid fiscal worries</description>
-<itunes:summary>Selected stories for today:
-- North‑South MRT corridor opening delayed by two years
-- Singapore&#x27;s key exports jump 46% in August
-- Disability support fees could fall up to 80%
-- Russia begins parliamentary election amid Kremlin control
-- Syrian court hands first sentences for 2025 mass killings
-- Yen intervention risk if yen hits $160
-- Fed hikes policy rate by 25 basis points
-- Japanese 10‑year bond yield at 2.97% amid fiscal worries</itunes:summary>
-<pubDate>Fri, 18 Sep 2026 06:26:53 +0800</pubDate>
-<guid isPermaLink="false">morning-news-2026-09-18</guid>
-<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-18.mp3" length="18878006" type="audio/mpeg"/>
-<itunes:duration>00:19:40</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
