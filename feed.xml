@@ -13,6 +13,44 @@
 <itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
 <itunes:image href="https://kelvinho888.github.io/morning-news/cover.jpg"/>
 <item>
+<title>Morning News - 2026-11-02</title>
+<description>Selected stories for today:
+- Haze probe: Five Singapore-registered companies agree to engage assessors
+- Police to use single caller ID 6000 0999 from Nov 2 to combat impersonation scams
+- Over 6,000 new homes to come for Toa Payoh West, with amenities clustered around Caldecott MRT station
+- Oil patches spotted in Singapore&#x27;s southern waters; source under investigation: MPA
+- South Korea exports nearly double in October, strongest growth since 1974
+- OPEC+ keeps December oil output targets steady ahead of tougher call for 2027
+- Evacuations from Russian‑occupied town of Oleski in northern Ukraine
+- UN employee killed while held by Houthis in Yemen
+- October U.S. jobs report forecast
+- New Zealand central bank unexpectedly kept its interest rate unchanged
+- Bangladesh faces dengue and measles outbreaks
+- Australian unemployment rises as labor market slows
+- Australian housing market down 8% year‑on‑year
+- Australian inflation at 4.3% headline</description>
+<itunes:summary>Selected stories for today:
+- Haze probe: Five Singapore-registered companies agree to engage assessors
+- Police to use single caller ID 6000 0999 from Nov 2 to combat impersonation scams
+- Over 6,000 new homes to come for Toa Payoh West, with amenities clustered around Caldecott MRT station
+- Oil patches spotted in Singapore&#x27;s southern waters; source under investigation: MPA
+- South Korea exports nearly double in October, strongest growth since 1974
+- OPEC+ keeps December oil output targets steady ahead of tougher call for 2027
+- Evacuations from Russian‑occupied town of Oleski in northern Ukraine
+- UN employee killed while held by Houthis in Yemen
+- October U.S. jobs report forecast
+- New Zealand central bank unexpectedly kept its interest rate unchanged
+- Bangladesh faces dengue and measles outbreaks
+- Australian unemployment rises as labor market slows
+- Australian housing market down 8% year‑on‑year
+- Australian inflation at 4.3% headline</itunes:summary>
+<pubDate>Mon, 02 Nov 2026 11:06:18 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-11-02</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-11-02.mp3" length="20016527" type="audio/mpeg"/>
+<itunes:duration>00:20:51</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning News - 2026-11-01</title>
 <description>Selected stories for today:
 - CNA Explains: Will new loan limits for private-hire cars mean less COE demand or higher ride-hailing prices?
@@ -1024,24 +1062,6 @@
 <guid isPermaLink="false">morning-news-2026-09-20</guid>
 <enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-20.mp3" length="20035335" type="audio/mpeg"/>
 <itunes:duration>00:20:52</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Morning News - 2026-09-19</title>
-<description>Selected stories for today:
-- South Korea refuses to send troops to Iran amid US pressure
-- Kremlin dismisses poll critics
-- Attack on mosque in northwest Pakistan kills at least 16
-- Trump‑Xi summit viewed as low‑impact</description>
-<itunes:summary>Selected stories for today:
-- South Korea refuses to send troops to Iran amid US pressure
-- Kremlin dismisses poll critics
-- Attack on mosque in northwest Pakistan kills at least 16
-- Trump‑Xi summit viewed as low‑impact</itunes:summary>
-<pubDate>Sat, 19 Sep 2026 07:37:56 +0800</pubDate>
-<guid isPermaLink="false">morning-news-2026-09-19</guid>
-<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-19.mp3" length="6426166" type="audio/mpeg"/>
-<itunes:duration>00:06:42</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
