@@ -13,6 +13,40 @@
 <itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
 <itunes:image href="https://kelvinho888.github.io/morning-news/cover.jpg"/>
 <item>
+<title>Morning News - 2026-11-04</title>
+<description>Selected stories for today:
+- Parliament in brief: Safeguards for workers during haze and other highlights from Nov 3
+- Jail or reformative training to be default sentencing options for young scam offenders under proposed law
+- LTA proposes five-band COE rebate to reduce cliff effects
+- Financial services firm MoneySmart hit by IT security breach, some customers&#x27; data copied
+- No need for more PM2.5 forecasts as too many indicators may confuse public: Grace Fu
+- Singapore to push for stronger action against haze as 2027 ASEAN chair
+- &#x27;Preventable lapse&#x27; by service provider caused 9.5-hour public healthcare IT outage on Oct 13: Tan Kiat How
+- Goldman Sachs CEO says AI demand drives capital markets activity
+- Regional toxic haze
+- Binance suffers record $6.3bn crypto hack
+- Goldman Sachs calls for AI governance framework
+- China tightens yuan support, raises reserve ratio</description>
+<itunes:summary>Selected stories for today:
+- Parliament in brief: Safeguards for workers during haze and other highlights from Nov 3
+- Jail or reformative training to be default sentencing options for young scam offenders under proposed law
+- LTA proposes five-band COE rebate to reduce cliff effects
+- Financial services firm MoneySmart hit by IT security breach, some customers&#x27; data copied
+- No need for more PM2.5 forecasts as too many indicators may confuse public: Grace Fu
+- Singapore to push for stronger action against haze as 2027 ASEAN chair
+- &#x27;Preventable lapse&#x27; by service provider caused 9.5-hour public healthcare IT outage on Oct 13: Tan Kiat How
+- Goldman Sachs CEO says AI demand drives capital markets activity
+- Regional toxic haze
+- Binance suffers record $6.3bn crypto hack
+- Goldman Sachs calls for AI governance framework
+- China tightens yuan support, raises reserve ratio</itunes:summary>
+<pubDate>Wed, 04 Nov 2026 06:39:02 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-11-04</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-11-04.mp3" length="19371198" type="audio/mpeg"/>
+<itunes:duration>00:20:11</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning News - 2026-11-03</title>
 <description>Selected stories for today:
 - MOM probes 45 firms over suspected work pass offences, illegal deployment at Changi Airport
@@ -1032,34 +1066,6 @@
 <guid isPermaLink="false">morning-news-2026-09-22</guid>
 <enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-22.mp3" length="14087358" type="audio/mpeg"/>
 <itunes:duration>00:14:40</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Morning News - 2026-09-21</title>
-<description>Selected stories for today:
-- 3 new bus routes for Tengah, Woodlands; interim shuttles for delayed Jurong Region Line to launch from mid-2027
-- Air quality in Singapore at moderate levels amid haze
-- National Cancer Centre apologises after email addresses of over 460 recipients mistakenly exposed
-- Scammers are using AI to commit crimes at speed. How is Singapore police&#x27;s new Cyber Command keeping up?
-- Singapore exploring Canada as potential energy source, anticipates further fuel disruptions from Middle East: Vivian Balakrishnan
-- First auction of seized luxury bags from S$3b money laundering case closes, bringing in more than S$1.1m
-- General Mills earnings preview
-- Key U.S. housing data preview
-- China‑Iran oil and sanctions</description>
-<itunes:summary>Selected stories for today:
-- 3 new bus routes for Tengah, Woodlands; interim shuttles for delayed Jurong Region Line to launch from mid-2027
-- Air quality in Singapore at moderate levels amid haze
-- National Cancer Centre apologises after email addresses of over 460 recipients mistakenly exposed
-- Scammers are using AI to commit crimes at speed. How is Singapore police&#x27;s new Cyber Command keeping up?
-- Singapore exploring Canada as potential energy source, anticipates further fuel disruptions from Middle East: Vivian Balakrishnan
-- First auction of seized luxury bags from S$3b money laundering case closes, bringing in more than S$1.1m
-- General Mills earnings preview
-- Key U.S. housing data preview
-- China‑Iran oil and sanctions</itunes:summary>
-<pubDate>Mon, 21 Sep 2026 13:23:26 +0800</pubDate>
-<guid isPermaLink="false">morning-news-2026-09-21</guid>
-<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-21.mp3" length="10499178" type="audio/mpeg"/>
-<itunes:duration>00:10:56</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
