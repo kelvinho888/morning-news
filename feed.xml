@@ -13,6 +13,46 @@
 <itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
 <itunes:image href="https://kelvinho888.github.io/morning-news/cover.jpg"/>
 <item>
+<title>Morning News - 2026-11-08</title>
+<description>Selected stories for today:
+- Singapore, Malaysia to expand cross-border taxi quota to 500 each, add two ride-hailing operators from Nov 16
+- LTA directs Grab to pause some AV testing after near miss with schoolgirl in Punggol
+- M1 and Doctor Anywhere hit by data breaches; personal information compromised
+- Genetic testing subsidies for hereditary breast, ovarian cancer to start on Dec 1
+- Little India bazaar sees lower visitor numbers, vendors seek support
+- Villa V Odyssey residential cruise ship en route to Singapore amid legal uncertainty
+- Malaysia Transport Minister Anthony Loke confirms he will resign when Najib begins house arrest
+- Nvidia chips pile up in Hong Kong as China withholds import approval
+- French debt concerns amid political turmoil
+- EU leaders gathering in Dublin for decisions
+- Detailed look at US CPI, PPI and Fed outlook
+- EU leaders gather in Ireland for major summit
+- Residents line up for free N95 masks on final day
+- Eli Lilly teams up with Hims &amp; Hers to expand obesity meds
+- EU budget negotiations and Ireland&#x27;s proposal</description>
+<itunes:summary>Selected stories for today:
+- Singapore, Malaysia to expand cross-border taxi quota to 500 each, add two ride-hailing operators from Nov 16
+- LTA directs Grab to pause some AV testing after near miss with schoolgirl in Punggol
+- M1 and Doctor Anywhere hit by data breaches; personal information compromised
+- Genetic testing subsidies for hereditary breast, ovarian cancer to start on Dec 1
+- Little India bazaar sees lower visitor numbers, vendors seek support
+- Villa V Odyssey residential cruise ship en route to Singapore amid legal uncertainty
+- Malaysia Transport Minister Anthony Loke confirms he will resign when Najib begins house arrest
+- Nvidia chips pile up in Hong Kong as China withholds import approval
+- French debt concerns amid political turmoil
+- EU leaders gathering in Dublin for decisions
+- Detailed look at US CPI, PPI and Fed outlook
+- EU leaders gather in Ireland for major summit
+- Residents line up for free N95 masks on final day
+- Eli Lilly teams up with Hims &amp; Hers to expand obesity meds
+- EU budget negotiations and Ireland&#x27;s proposal</itunes:summary>
+<pubDate>Sun, 08 Nov 2026 06:28:59 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-11-08</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-11-08.mp3" length="19396275" type="audio/mpeg"/>
+<itunes:duration>00:20:12</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning News - 2026-11-05</title>
 <description>Selected stories for today:
 - Proposed transboundary haze law penalties and parliamentary debate
@@ -1038,34 +1078,6 @@
 <guid isPermaLink="false">morning-news-2026-09-25</guid>
 <enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-25.mp3" length="15318666" type="audio/mpeg"/>
 <itunes:duration>00:15:57</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Morning News - 2026-09-24</title>
-<description>Selected stories for today:
-- Internal security department says terrorism threat is high
-- SG Secure marks 10‑year anniversary with expanded outreach
-- President Xi&#x27;s state visit to Washington
-- Tigrayan rebels seize Mekele airport amid rising conflict
-- IMF chief warns advanced economies to cut borrowing
-- China builds AI data centre hub in Inner Mongolia
-- South Sudan president dissolves government ahead of elections
-- Critical minerals supply chain challenges discussed
-- RBA may raise rates as inflation persists</description>
-<itunes:summary>Selected stories for today:
-- Internal security department says terrorism threat is high
-- SG Secure marks 10‑year anniversary with expanded outreach
-- President Xi&#x27;s state visit to Washington
-- Tigrayan rebels seize Mekele airport amid rising conflict
-- IMF chief warns advanced economies to cut borrowing
-- China builds AI data centre hub in Inner Mongolia
-- South Sudan president dissolves government ahead of elections
-- Critical minerals supply chain challenges discussed
-- RBA may raise rates as inflation persists</itunes:summary>
-<pubDate>Thu, 24 Sep 2026 06:27:07 +0800</pubDate>
-<guid isPermaLink="false">morning-news-2026-09-24</guid>
-<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-24.mp3" length="15346669" type="audio/mpeg"/>
-<itunes:duration>00:15:59</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
