@@ -13,6 +13,40 @@
 <itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
 <itunes:image href="https://kelvinho888.github.io/morning-news/cover.jpg"/>
 <item>
+<title>Morning News - 2026-11-09</title>
+<description>Selected stories for today:
+- Singapore’s worst haze since 2015: What went right, and what are the lessons?
+- Australia should deepen economic, security ties with Southeast Asia to advance national interests amid intense global rivalry: SM Lee
+- Keeping experienced seniors in the workforce without full-time commitments
+- Malaysia&#x27;s attorney-general defends halting Najib&#x27;s house arrest after king&#x27;s rebuke
+- &#x27;Feeling guilty&#x27;: Price hikes a tough sell in Japan despite inflation
+- Key US inflation data ahead
+- China&#x27;s Singles Day retail boom
+- Skydance earnings preview after $81 bn merger
+- Eli Lilly teams up with Hims &amp; Hers
+- China&#x27;s &#x27;potato capital&#x27; cultivates new crop of data centres as AI boom takes root
+- Israel&#x27;s president tasks opposition leader with forming new government
+- EU leaders convene in Dublin for summit</description>
+<itunes:summary>Selected stories for today:
+- Singapore’s worst haze since 2015: What went right, and what are the lessons?
+- Australia should deepen economic, security ties with Southeast Asia to advance national interests amid intense global rivalry: SM Lee
+- Keeping experienced seniors in the workforce without full-time commitments
+- Malaysia&#x27;s attorney-general defends halting Najib&#x27;s house arrest after king&#x27;s rebuke
+- &#x27;Feeling guilty&#x27;: Price hikes a tough sell in Japan despite inflation
+- Key US inflation data ahead
+- China&#x27;s Singles Day retail boom
+- Skydance earnings preview after $81 bn merger
+- Eli Lilly teams up with Hims &amp; Hers
+- China&#x27;s &#x27;potato capital&#x27; cultivates new crop of data centres as AI boom takes root
+- Israel&#x27;s president tasks opposition leader with forming new government
+- EU leaders convene in Dublin for summit</itunes:summary>
+<pubDate>Mon, 09 Nov 2026 06:31:49 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-11-09</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-11-09.mp3" length="23660295" type="audio/mpeg"/>
+<itunes:duration>00:24:39</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning News - 2026-11-08</title>
 <description>Selected stories for today:
 - Singapore, Malaysia to expand cross-border taxi quota to 500 each, add two ride-hailing operators from Nov 16
@@ -1048,36 +1082,6 @@
 <guid isPermaLink="false">morning-news-2026-09-29</guid>
 <enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-29.mp3" length="17900399" type="audio/mpeg"/>
 <itunes:duration>00:18:39</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Morning News - 2026-09-25</title>
-<description>Selected stories for today:
-- Escalation of fighting in Ethiopia’s Tigray region
-- Risk of LNG shortages in developing countries as Strait of Hormuz disruptions bite
-- Saudi east‑west pipeline tests resume after Houthi drone attacks
-- Ukrainian attacks hit Russian oil output
-- Situation in Kiev worsening
-- Iran threatens navigation in Hormuz, oil spikes
-- Missile strike damages Kyiv maternity hospital
-- OpenAI AI agent breached Australian health data portal
-- US and China discuss AI incident hotline
-- US business sentiment improves in China</description>
-<itunes:summary>Selected stories for today:
-- Escalation of fighting in Ethiopia’s Tigray region
-- Risk of LNG shortages in developing countries as Strait of Hormuz disruptions bite
-- Saudi east‑west pipeline tests resume after Houthi drone attacks
-- Ukrainian attacks hit Russian oil output
-- Situation in Kiev worsening
-- Iran threatens navigation in Hormuz, oil spikes
-- Missile strike damages Kyiv maternity hospital
-- OpenAI AI agent breached Australian health data portal
-- US and China discuss AI incident hotline
-- US business sentiment improves in China</itunes:summary>
-<pubDate>Fri, 25 Sep 2026 11:58:03 +0800</pubDate>
-<guid isPermaLink="false">morning-news-2026-09-25</guid>
-<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-25.mp3" length="15318666" type="audio/mpeg"/>
-<itunes:duration>00:15:57</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
