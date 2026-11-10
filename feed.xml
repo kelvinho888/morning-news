@@ -13,6 +13,18 @@
 <itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
 <itunes:image href="https://kelvinho888.github.io/morning-news/cover.jpg"/>
 <item>
+<title>Morning News - 2026-11-10</title>
+<description>Selected stories for today:
+- COP31 climate summit in Turkey – progress and challenges</description>
+<itunes:summary>Selected stories for today:
+- COP31 climate summit in Turkey – progress and challenges</itunes:summary>
+<pubDate>Tue, 10 Nov 2026 09:51:49 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-11-10</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-11-10.mp3" length="3069536" type="audio/mpeg"/>
+<itunes:duration>00:03:12</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning News - 2026-11-09</title>
 <description>Selected stories for today:
 - Singapore’s worst haze since 2015: What went right, and what are the lessons?
@@ -1050,38 +1062,6 @@
 <guid isPermaLink="false">morning-news-2026-09-30</guid>
 <enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-30.mp3" length="10997804" type="audio/mpeg"/>
 <itunes:duration>00:11:27</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Morning News - 2026-09-29</title>
-<description>Selected stories for today:
-- Singapore&#x27;s first hydrogen‑ready power plant announced
-- 1,600 semiconductor jobs from new wafer fab
-- Taxi drivers can train to become bus captains
-- Netanyahu’s secret UAE trip sparks election controversy
-- China‑U.S. trade truce extended
-- RBA may implement one more rate hike in September
-- Bond yield shock driven by US, Australian fiscal health remains sound
-- Bangkok declared flood disaster zone
-- US services inflation expected to pick up, prompting possible Fed hike
-- Oil prices rise after Trump rejects Iran proposal
-- Uganda general says ministers must get his permission to travel abroad</description>
-<itunes:summary>Selected stories for today:
-- Singapore&#x27;s first hydrogen‑ready power plant announced
-- 1,600 semiconductor jobs from new wafer fab
-- Taxi drivers can train to become bus captains
-- Netanyahu’s secret UAE trip sparks election controversy
-- China‑U.S. trade truce extended
-- RBA may implement one more rate hike in September
-- Bond yield shock driven by US, Australian fiscal health remains sound
-- Bangkok declared flood disaster zone
-- US services inflation expected to pick up, prompting possible Fed hike
-- Oil prices rise after Trump rejects Iran proposal
-- Uganda general says ministers must get his permission to travel abroad</itunes:summary>
-<pubDate>Tue, 29 Sep 2026 06:26:40 +0800</pubDate>
-<guid isPermaLink="false">morning-news-2026-09-29</guid>
-<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-09-29.mp3" length="17900399" type="audio/mpeg"/>
-<itunes:duration>00:18:39</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
