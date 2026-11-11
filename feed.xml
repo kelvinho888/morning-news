@@ -13,6 +13,38 @@
 <itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
 <itunes:image href="https://kelvinho888.github.io/morning-news/cover.jpg"/>
 <item>
+<title>Morning News - 2026-11-12</title>
+<description>Selected stories for today:
+- Firms explore more fractional work for seniors to retain expertise, ease manpower shortages
+- Fintech firm Airwallex to invest S$2 billion in Singapore, create around 250 jobs over five years
+- Minmed reports &#x27;malicious cybersecurity incident&#x27; involving teleconsult, health screening system
+- First BTO exercise under raised income ceiling set to draw highest number of applications in two years
+- Indonesia&#x27;s Vice-President Gibran has resigned, aide says
+- Malaysian Transport Minister Anthony Loke&#x27;s resignation to take effect &#x27;immediately&#x27; after court grants Najib house arrest
+- Winter rains flood Gaza tents
+- US absence from COP raises concerns
+- Anthropic plans $1.4 trillion IPO
+- Workers in Spain hold their first general strike in 14 years
+- Otter AI raises $320 million and adds 27 new Asian languages</description>
+<itunes:summary>Selected stories for today:
+- Firms explore more fractional work for seniors to retain expertise, ease manpower shortages
+- Fintech firm Airwallex to invest S$2 billion in Singapore, create around 250 jobs over five years
+- Minmed reports &#x27;malicious cybersecurity incident&#x27; involving teleconsult, health screening system
+- First BTO exercise under raised income ceiling set to draw highest number of applications in two years
+- Indonesia&#x27;s Vice-President Gibran has resigned, aide says
+- Malaysian Transport Minister Anthony Loke&#x27;s resignation to take effect &#x27;immediately&#x27; after court grants Najib house arrest
+- Winter rains flood Gaza tents
+- US absence from COP raises concerns
+- Anthropic plans $1.4 trillion IPO
+- Workers in Spain hold their first general strike in 14 years
+- Otter AI raises $320 million and adds 27 new Asian languages</itunes:summary>
+<pubDate>Thu, 12 Nov 2026 07:58:01 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-11-12</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-11-12.mp3" length="12581869" type="audio/mpeg"/>
+<itunes:duration>00:13:06</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning News - 2026-11-11</title>
 <description>Selected stories for today:
 - About 3 million eligible Singaporeans to receive up to S$250 from Dec 8 under Assurance Package
@@ -1118,42 +1150,6 @@ Page: https://www.undergroundgarage.com/shows-9-1/show-3-enter-the-dragon</itune
 <guid isPermaLink="false">morning-news-2026-10-02</guid>
 <enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-10-02.mp3" length="9783632" type="audio/mpeg"/>
 <itunes:duration>00:10:11</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Morning News - 2026-10-01</title>
-<description>Selected stories for today:
-- Price controls may look attractive, but costs often only emerge later: PM Wong
-- Nearly 100,000 Bee Cheng Hiang customers&#x27; email addresses exposed in first AI-related data breach in Singapore
-- Union calls for public transport workers to get better wages, bonuses following fare hikes
-- Lower electricity and gas household tariffs from October to December
-- Fresh twist on Anthony Loke’s resignation: Little wiggle room for him, breathing space for Anwar
-- UN refugee agency concerned by Malaysia returns to Myanmar
-- Kenya $16bn oil refinery project sparks protests
-- OpenAI to launch agentic AI assistant
-- Ukraine endures massive Russian overnight attacks
-- China rolls out limited stimulus measures
-- Asia‑Pacific equities rise on falling oil prices
-- China September PMI shows marginal expansion
-- Dubai‑Tel Aviv flight diverted after cockpit stabbing</description>
-<itunes:summary>Selected stories for today:
-- Price controls may look attractive, but costs often only emerge later: PM Wong
-- Nearly 100,000 Bee Cheng Hiang customers&#x27; email addresses exposed in first AI-related data breach in Singapore
-- Union calls for public transport workers to get better wages, bonuses following fare hikes
-- Lower electricity and gas household tariffs from October to December
-- Fresh twist on Anthony Loke’s resignation: Little wiggle room for him, breathing space for Anwar
-- UN refugee agency concerned by Malaysia returns to Myanmar
-- Kenya $16bn oil refinery project sparks protests
-- OpenAI to launch agentic AI assistant
-- Ukraine endures massive Russian overnight attacks
-- China rolls out limited stimulus measures
-- Asia‑Pacific equities rise on falling oil prices
-- China September PMI shows marginal expansion
-- Dubai‑Tel Aviv flight diverted after cockpit stabbing</itunes:summary>
-<pubDate>Thu, 01 Oct 2026 08:57:49 +0800</pubDate>
-<guid isPermaLink="false">morning-news-2026-10-01</guid>
-<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-10-01.mp3" length="15934319" type="audio/mpeg"/>
-<itunes:duration>00:16:36</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
