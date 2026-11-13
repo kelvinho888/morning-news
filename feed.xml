@@ -13,6 +13,42 @@
 <itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
 <itunes:image href="https://kelvinho888.github.io/morning-news/cover.jpg"/>
 <item>
+<title>Morning News - 2026-11-14</title>
+<description>Selected stories for today:
+- Alice Huang barred from re-entering Singapore; insufficient evidence she committed offences in Megaspeed probe: MHA
+- Fifth person charged in Singapore over alleged fraud conspiracy linked to Nvidia chips
+- Singapore&#x27;s healthcare cyber breaches expose growing risks beyond hospitals, warn experts
+- Obesity clinics see surge in patients amid greater awareness of condition
+- JobSeeker Support Scheme under review
+- Gibran&#x27;s exit as Indonesia&#x27;s VP: A turning point in Prabowo and Jokowi&#x27;s political relationship?
+- Malaysia PM Anwar yet to accept Loke’s resignation as transport minister
+- Microsoft outage slows productivity
+- Nvidia leadership change raises AI capex and China export concerns
+- Microsoft outage causes worldwide disruption
+- U.S. lawmakers negotiate new chip export control bills
+- FBI details $400 million crypto theft by North Korean hackers
+- El Salvador troops seize Haiti stadium, skulls discovered</description>
+<itunes:summary>Selected stories for today:
+- Alice Huang barred from re-entering Singapore; insufficient evidence she committed offences in Megaspeed probe: MHA
+- Fifth person charged in Singapore over alleged fraud conspiracy linked to Nvidia chips
+- Singapore&#x27;s healthcare cyber breaches expose growing risks beyond hospitals, warn experts
+- Obesity clinics see surge in patients amid greater awareness of condition
+- JobSeeker Support Scheme under review
+- Gibran&#x27;s exit as Indonesia&#x27;s VP: A turning point in Prabowo and Jokowi&#x27;s political relationship?
+- Malaysia PM Anwar yet to accept Loke’s resignation as transport minister
+- Microsoft outage slows productivity
+- Nvidia leadership change raises AI capex and China export concerns
+- Microsoft outage causes worldwide disruption
+- U.S. lawmakers negotiate new chip export control bills
+- FBI details $400 million crypto theft by North Korean hackers
+- El Salvador troops seize Haiti stadium, skulls discovered</itunes:summary>
+<pubDate>Sat, 14 Nov 2026 06:37:49 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-11-14</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-11-14.mp3" length="18034982" type="audio/mpeg"/>
+<itunes:duration>00:18:47</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning News - 2026-11-13</title>
 <description>Selected stories for today:
 - Megaspeed investigation and passport seizure
@@ -1116,40 +1152,6 @@ Page: https://www.undergroundgarage.com/shows-9-1/show-3-enter-the-dragon</itune
 <guid isPermaLink="false">morning-news-2026-10-05</guid>
 <enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-10-05.mp3" length="10711919" type="audio/mpeg"/>
 <itunes:duration>00:11:09</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Morning News - 2026-10-03</title>
-<description>Selected stories for today:
-- Johor Bahru-Singapore RTS Link passenger service delayed to February 2027
-- More than 16,000 seniors to benefit from new active ageing framework
-- HPV9 vaccine to be added to national immunisation schedules from January 2027
-- Existing safeguards by AI companies insufficient as models grow more capable: Josephine Teo
-- Indonesia’s Prabowo names new foreign, industry ministers in major Cabinet reshuffle
-- Marking China&#x27;s national day, Xi calls for progress towards reunification with Taiwan
-- Bank of Japan may delay October rate hike, eye December
-- Japan launches $15 billion 400‑MW AI data centre project
-- LNG prices double ahead of European winter
-- Consumer stocks slump amid weak Chinese macro
-- Tokyo CPI jumps, pressure on BOJ
-- US considers banning diesel exports</description>
-<itunes:summary>Selected stories for today:
-- Johor Bahru-Singapore RTS Link passenger service delayed to February 2027
-- More than 16,000 seniors to benefit from new active ageing framework
-- HPV9 vaccine to be added to national immunisation schedules from January 2027
-- Existing safeguards by AI companies insufficient as models grow more capable: Josephine Teo
-- Indonesia’s Prabowo names new foreign, industry ministers in major Cabinet reshuffle
-- Marking China&#x27;s national day, Xi calls for progress towards reunification with Taiwan
-- Bank of Japan may delay October rate hike, eye December
-- Japan launches $15 billion 400‑MW AI data centre project
-- LNG prices double ahead of European winter
-- Consumer stocks slump amid weak Chinese macro
-- Tokyo CPI jumps, pressure on BOJ
-- US considers banning diesel exports</itunes:summary>
-<pubDate>Sat, 03 Oct 2026 18:05:04 +0800</pubDate>
-<guid isPermaLink="false">morning-news-2026-10-03</guid>
-<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-10-03.mp3" length="17133444" type="audio/mpeg"/>
-<itunes:duration>00:17:51</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
