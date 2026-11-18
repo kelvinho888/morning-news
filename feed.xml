@@ -13,6 +13,32 @@
 <itunes:owner><itunes:name>Morning News</itunes:name></itunes:owner>
 <itunes:image href="https://kelvinho888.github.io/morning-news/cover.jpg"/>
 <item>
+<title>Morning News - 2026-11-18</title>
+<description>Selected stories for today:
+- Singapore’s non-oil exports surge 79.8% in October, driven by pharmaceuticals and ship structures
+- Singapore to push for single ASEAN market, closer energy and digital links as 2027 chair: PM Wong
+- Singapore seeks to ensure &#x27;trusted access&#x27; to AI infrastructure under US restrictions: Josephine Teo
+- PM Wong to meet Chinese President Xi Jinping, Premier Li Qiang after attending APEC meeting in China
+- Preparatory works, new public engagement phase for &#x27;Long Island&#x27; to begin in January 2027
+- APEC CEO Summit Emphasises Supply Chain Resilience
+- Japan proposes Asia oil security task force at ASEAN summit
+- Trump, Putin and Xi to Meet in Historic Shenzhen Summit</description>
+<itunes:summary>Selected stories for today:
+- Singapore’s non-oil exports surge 79.8% in October, driven by pharmaceuticals and ship structures
+- Singapore to push for single ASEAN market, closer energy and digital links as 2027 chair: PM Wong
+- Singapore seeks to ensure &#x27;trusted access&#x27; to AI infrastructure under US restrictions: Josephine Teo
+- PM Wong to meet Chinese President Xi Jinping, Premier Li Qiang after attending APEC meeting in China
+- Preparatory works, new public engagement phase for &#x27;Long Island&#x27; to begin in January 2027
+- APEC CEO Summit Emphasises Supply Chain Resilience
+- Japan proposes Asia oil security task force at ASEAN summit
+- Trump, Putin and Xi to Meet in Historic Shenzhen Summit</itunes:summary>
+<pubDate>Wed, 18 Nov 2026 10:03:23 +0800</pubDate>
+<guid isPermaLink="false">morning-news-2026-11-18</guid>
+<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-11-18.mp3" length="7487364" type="audio/mpeg"/>
+<itunes:duration>00:07:48</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning News - 2026-11-17</title>
 <description>Selected stories for today:
 - Indonesia Apologises for Regional Toxic Haze
@@ -1224,46 +1250,6 @@ Page: https://www.undergroundgarage.com/shows-9-1/show-3-enter-the-dragon</itune
 <guid isPermaLink="false">morning-news-2026-10-10</guid>
 <enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-10-10.mp3" length="15833591" type="audio/mpeg"/>
 <itunes:duration>00:16:30</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-</item>
-<item>
-<title>Morning News - 2026-10-09</title>
-<description>Selected stories for today:
-- PM Wong says US tariffs on Singapore should be zero
-- Marcos Jr. outlines ASEAN AI and trade initiatives
-- ‘No boom is forever’: Singapore must seize AI opportunity before correction, says PM Wong
-- 7 drivers caught providing illegal cross-border ride-hailing services, vehicles impounded
-- Singapore Grand Prix entertainment may be curbed if haze worsens, FIA says
-- Singapore hotel rates soar as F1, MICE events drive tourism demand
-- Healthcare&#x27;s new challenge is &#x27;living well&#x27;, but women spend more years in ill health: Ong Ye Kung
-- PM Wong to visit Brunei to mark 50 years of defence ties
-- Gaza medical shortages worsen
-- Fed minutes show hawkish tone, unlikely October rate hike
-- Detailed report on Kramatorsk bus strike
-- US‑Iran tension and oil price risk
-- Samsung posts record profit on memory chip demand
-- Detailed coverage of Israel‑UK consulate row
-- Samsung earnings miss estimates</description>
-<itunes:summary>Selected stories for today:
-- PM Wong says US tariffs on Singapore should be zero
-- Marcos Jr. outlines ASEAN AI and trade initiatives
-- ‘No boom is forever’: Singapore must seize AI opportunity before correction, says PM Wong
-- 7 drivers caught providing illegal cross-border ride-hailing services, vehicles impounded
-- Singapore Grand Prix entertainment may be curbed if haze worsens, FIA says
-- Singapore hotel rates soar as F1, MICE events drive tourism demand
-- Healthcare&#x27;s new challenge is &#x27;living well&#x27;, but women spend more years in ill health: Ong Ye Kung
-- PM Wong to visit Brunei to mark 50 years of defence ties
-- Gaza medical shortages worsen
-- Fed minutes show hawkish tone, unlikely October rate hike
-- Detailed report on Kramatorsk bus strike
-- US‑Iran tension and oil price risk
-- Samsung posts record profit on memory chip demand
-- Detailed coverage of Israel‑UK consulate row
-- Samsung earnings miss estimates</itunes:summary>
-<pubDate>Fri, 09 Oct 2026 11:24:27 +0800</pubDate>
-<guid isPermaLink="false">morning-news-2026-10-09</guid>
-<enclosure url="https://kelvinho888.github.io/morning-news/episodes/Morning_News_2026-10-09.mp3" length="17235426" type="audio/mpeg"/>
-<itunes:duration>00:17:57</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 </item>
 </channel>
